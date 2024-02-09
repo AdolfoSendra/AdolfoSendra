@@ -47,6 +47,19 @@
 </p>        
 <!--- stats (end) -->
 
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/AdolfoSendra/VideoClub_System">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AdolfoSendra&repo=VideoClub_System&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+</details>
+
 
 
 
