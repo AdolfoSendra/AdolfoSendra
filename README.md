@@ -38,19 +38,8 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,c#,css,discord,docker,figma,github,html,java,js,linux,postman,vscode&perline=14" />
-  </a>
+  [![My Skills](https://skillicons.dev/icons?i=git,c,cs,css,discord,docker,figma,github,html,java,js,linux,postman,vscode, sqlite)](https://skillicons.dev)
 </p>
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
 
 </p>        
 <!--- stats (end) -->
@@ -76,7 +65,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=AdolfoSendra&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in).
+[![](https://visitcount.itsvg.in/api?id=AdolfoSendra&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
   
 </div>
 
@@ -85,5 +74,3 @@
 
 ----------------------------------------------------------------------
 Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 29/4/2023
