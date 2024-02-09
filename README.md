@@ -37,8 +37,11 @@
   </ul>
 </div>
 <!--tech stack icons-->
+
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=git,c,cs,css,discord,docker,figma,github,html,java,js,linux,postman,vscode,sqlite)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cs,css,discord,docker,figma,github,html,java,js,linux,postman,vscode,sqlite" />
+  </a>
 </p>
 
 </p>        
