@@ -38,7 +38,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=git,c,cs,css,discord,docker,figma,github,html,java,js,linux,postman,vscode, sqlite)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,c,cs,css,discord,docker,figma,github,html,java,js,linux,postman,vscode,sqlite)](https://skillicons.dev)
 </p>
 
 </p>        
